@@ -1,3 +1,5 @@
+<!-- Enunciado:  solicite ao usuário quatro valores inteiros e armazene-os num array simples. Após isso, utilize a função filter() para gerar um novo array contendo apenas valores pares.-->
+
 const valor1 = Number(prompt('digite o primeiro numero'))
 const valor2 = Number(prompt('digite o segundo numero'))
 const valor3 = Number(prompt('digite o terceiro numero'))
